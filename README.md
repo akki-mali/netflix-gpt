@@ -1,8 +1,13 @@
 # Netflix GPT
 
-1.Create your project using vite
-
-2.Configue Tailwind css 
+.Create your project using vite
+.Configue Tailwind css 
+.Routing of app
+.Login with Sign in / Sign Up component created
+.Header Component
+.Validation done for email & password
+.useRef Hook
+.install firebase
 
 
 # Features
