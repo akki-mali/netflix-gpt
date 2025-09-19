@@ -9,6 +9,21 @@
 .useRef Hook
 .install firebase
 
+## Environment Setup
+
+1. Copy the environment template:
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Fill in your Firebase configuration in `.env`:
+   - Get your Firebase config from [Firebase Console](https://console.firebase.google.com/)
+   - Replace the placeholder values in `.env` with your actual Firebase project details
+
+3. Enable Authentication in Firebase Console:
+   - Go to Authentication → Sign-in method
+   - Enable "Email/Password" provider
+
 
 # Features
 
